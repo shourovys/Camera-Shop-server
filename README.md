@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/x6wrgBr/1637308287865.png" alt="Screenshot-72" border="0">
 
-# [LIVE SITE](https://hot-red-onion-app.netlify.app)
+# [LIVE SITE](https://camera-ghost.netlify.app/)
 
 # [CLIENT](https://github.com/programming-hero-web-course-4/niche-website-client-side-shourovys)
 
